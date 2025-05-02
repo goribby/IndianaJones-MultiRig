@@ -30,5 +30,5 @@ An Indiana Jones and the Great Circle IK Multi Rig for Blender 4.1+. <br>
 
 <i>If you need any additional help, feel free to message me on Discord:</i> <b>@goribby</b>
 
-<!--# Showcase Video
-[![Showcase Video](http://img.youtube.com/vi/SeFOuWl7bZY/0.jpg)](https://youtu.be/SeFOuWl7bZY?si=nazp9xHaqjtE8Ypb "Showcase Video") -->
+# Showcase Video
+[![Showcase Video](http://img.youtube.com/vi/QBddXlX3tXo/0.jpg)](https://youtu.be/QBddXlX3tXo "Showcase Video")
