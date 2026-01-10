@@ -1,7 +1,5 @@
 # Download
-1. Click the .zip from the latest release on the [Releases](https://github.com/goribby/IndianaJones-MultiRig/releases) page to download it.
-
-2. Extract the .zip file and open the .blend inside. The .blend **MUST** be in the same folder as the "textures" folder for textures to work.
+Get the rig on [Gumroad](https://goribby.gumroad.com/l/indy-rig)
 
 # Instructions
 
