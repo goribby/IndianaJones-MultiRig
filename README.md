@@ -1,5 +1,8 @@
 # Download
-Get the rig on [Gumroad](https://goribby.gumroad.com/l/indy-rig)
+
+1. Click the .zip from the latest release from [Gumroad](https://goribby.gumroad.com/l/indy-rig).
+
+2. Extract the .zip file and open the .blend inside. The .blend **MUST** be in the same folder as the "textures" folder for textures to work.
 
 # Instructions
 
